@@ -1,22 +1,24 @@
-* {
-    background-color: #8D818C;
+body {
+    background-color: #603140;
 }
 
 main {
-    text-align: center;
+
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
 h1 {
     font-family: cursive;
+    text-align: center;
 }
 
 nav {
     font-size: large;
-    background-color: #716F71;
+    background-color: #C7AA74;
     height: 20px;
     padding: 20px;
+    text-align: center;
 }
 
 ul,
@@ -34,10 +36,11 @@ a:hover {
 }
 
 img {
-    height: 300px;
-    width: 250px;
+    height: 50%;
+    width: 50%;
     border-radius: 20%;
     padding: 10px;
+
 }
 
 h2 {
@@ -50,6 +53,7 @@ h3 {
 
 footer {
     font-size: 12px;
+    text-align: center;
 }
 
 hr {
@@ -60,5 +64,14 @@ hr {
 section {
     margin: 20px;
     padding: 20px;
+    background-color: #C7AA74;
 
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
 }
