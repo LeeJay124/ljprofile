@@ -32,10 +32,10 @@ ol {
 }
 /* pseudo-class formatting for links */
 a:link{
-    color: #003F91;
+    color: #00000F;
 }
 a:visited {
-    color: #000;
+    color: #00000F;
 }
 
 a:hover {
@@ -73,7 +73,7 @@ hr {
 section {
     margin: 20px;
     padding: 20px;
-    background-color: #C7AA74;
+    background-color: #E6D9C1;
 
 
 }
