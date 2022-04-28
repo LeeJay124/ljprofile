@@ -18,9 +18,9 @@ h1 {
 }
 
 nav {
-    font-size: 14pt;
+    
     background-color: #E6D9C1;
-    font-weight: bold;
+    
     height: 20px;
     padding: 20px;
     text-align: center;
@@ -34,7 +34,7 @@ ol {
 /* pseudo-class formatting for links */
 a:link{
     color: #00000F;
-    font-weight: bold;
+    
 }
 a:visited {
     color: #00000F;
