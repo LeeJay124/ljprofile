@@ -1,13 +1,16 @@
+/* CSS styles for LJ Profile */
+
+/* background for the entire page */
 body {
     background-color: #603140;
 }
-
+/* font for the entire main */
 main {
 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
-
+/* formatting for elements to make the appear better */
 h1 {
     font-family: cursive, sans-serif;
     text-align: center;
@@ -15,7 +18,7 @@ h1 {
 }
 
 nav {
-    font-size: large;
+    font-size: larger;
     background-color: #C7AA74;
     height: 20px;
     padding: 20px;
@@ -27,13 +30,16 @@ ol {
     display: inline-block;
     text-align: left;
 }
-
+/* pseudo-class formatting for links */
+a:link{
+    color: #003F91;
+}
 a:visited {
-    color: #613D66;
+    color: #000;
 }
 
 a:hover {
-    color: #2F7789;
+    color: #603140;
 }
 
 img {
