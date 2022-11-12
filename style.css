@@ -18,7 +18,7 @@ h1 {
 }
 .projects{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 nav {
     
