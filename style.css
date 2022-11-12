@@ -16,7 +16,10 @@ h1 {
     text-align: center;
     color: #C7AA74;
 }
-
+.projects{
+    display: flex;
+    flex-direction: row;
+}
 nav {
     
     background-color: #E6D9C1;
